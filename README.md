@@ -1,6 +1,6 @@
 # NPLAY Theme Pack NIRU
 
-**Five original Norse-inspired palettes for NPLAY 1.4.1+**, designed by Nicklas Rudolfsson.
+**Five original Norse-inspired palettes for NPLAY 1.4.1+**, designed by Ing Leif Nicklas Rudolfsson.
 
 An independent theme collection for the NPLAY Linux terminal music player. Designed for a calm, legible, atmospheric appearance in Kitty and other 256-color terminals. Every palette is an original interpretation, not a copy of an existing editor theme.
 
