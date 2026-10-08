@@ -1,0 +1,15 @@
+# Yggdrasil — NIRU original NPLAY theme
+# Old forest / moss / amber bark
+[theme]
+id = "yggdrasil"
+name = "Yggdrasil"
+author = "Nicklas Rudolfsson"
+version = "1.0.0"
+
+[colors]
+fg = "#D8D6C1"
+muted = "#96A18B"
+accent = "#A9C77A"
+bg = "#141D18"
+select_fg = "#142018"
+select_bg = "#A9C77A"

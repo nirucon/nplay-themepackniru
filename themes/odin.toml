@@ -1,0 +1,15 @@
+# Odin — NIRU original NPLAY theme
+# Raven black / weathered gold / pale silver
+[theme]
+id = "odin"
+name = "Odin"
+author = "Nicklas Rudolfsson"
+version = "1.0.0"
+
+[colors]
+fg = "#DED9CD"
+muted = "#96938D"
+accent = "#D7B36A"
+bg = "#111416"
+select_fg = "#101418"
+select_bg = "#D7B36A"

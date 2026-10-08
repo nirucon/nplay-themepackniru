@@ -1,0 +1,15 @@
+# Urdr — NIRU original NPLAY theme
+# Night violet / fate-thread rose / ivory
+[theme]
+id = "urdr"
+name = "Urdr"
+author = "Nicklas Rudolfsson"
+version = "1.0.0"
+
+[colors]
+fg = "#E3DCE3"
+muted = "#A397AB"
+accent = "#D7A0B7"
+bg = "#1A1720"
+select_fg = "#20151D"
+select_bg = "#D7A0B7"

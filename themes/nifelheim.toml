@@ -1,0 +1,15 @@
+# Nifelheim — NIRU original NPLAY theme
+# Glacial blue / frost / deep abyss
+[theme]
+id = "nifelheim"
+name = "Nifelheim"
+author = "Nicklas Rudolfsson"
+version = "1.0.0"
+
+[colors]
+fg = "#DAE8EE"
+muted = "#8299A7"
+accent = "#8FD5EA"
+bg = "#0B1924"
+select_fg = "#091822"
+select_bg = "#8FD5EA"

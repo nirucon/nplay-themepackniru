@@ -1,0 +1,15 @@
+# Runes — NIRU original NPLAY theme
+# Runestone charcoal / copper / ancient ivory
+[theme]
+id = "runes"
+name = "Runes"
+author = "Nicklas Rudolfsson"
+version = "1.0.0"
+
+[colors]
+fg = "#E5D7BB"
+muted = "#AFA08A"
+accent = "#DF9063"
+bg = "#211C1B"
+select_fg = "#201A16"
+select_bg = "#DF9063"
